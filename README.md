@@ -2,7 +2,7 @@
 
 ## Fullstack Web Developer
 
-I'm a web developer from Atlanta, GA. I primarily do full-stack development using React with TypeScript for the front end and Golang for the back end. I prefer working with back-end technologies (don't tell the front end I said that!) and have extensive experience with all kinds of databases, both SQL and NoSQL. I enjoy creating responsive web applications that offer pleasant user experiences and easily readable, maintainable codebases. I also have DevOps experience, as my projects are all self-hosted. I currently maintain a web application called [Spelldle](https://www.spelldle.app/), which handles almost 1,000 daily active users.
+I'm a web developer from Atlanta, GA. I primarily do full-stack development using React with TypeScript for the front end and Golang for the back end. I prefer working with back-end and lower-level technologies and have extensive experience with all kinds of databases, both SQL and NoSQL. I enjoy creating responsive web applications that offer pleasant user experiences and easily readable, maintainable codebases. I also have DevOps experience, as my projects are all self-hosted. I currently maintain a web application called [Spelldle](https://www.spelldle.app/), which handles almost 1,000 daily active users.
 
 - 🖥️  See my portfolio at [jacksonfurr.dev](http://jacksonfurr.dev)
 - ✉️  You can contact me at [jacksonfurrdev@gmail.com](mailto:jacksonfurrdev@gmail.com)
